@@ -1,0 +1,1 @@
+My name is Zev Gendreau-Distler, and for this project I made a portfolio website for my art. This website includes several pages including a homepage, a table of contents, and galleries for drawings, sculptures, paintings, and prints. 
