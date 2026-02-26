@@ -4,7 +4,17 @@ body {
 
 img {
     border: 5pt solid white;
-    width: 400px
+    width: 400px;
+    height: auto;
+
+}
+
+@media screen and (max-width=750px) {
+    img {
+        width: 200px;
+        height: auto;
+
+    }
 }
 
 h1 {
@@ -90,11 +100,11 @@ ul {
     font-weight: bold;
     text-align: center;
     font-size: 14pt;
-    list-style-type:disc;
+    list-style-type: disc;
 }
 
 li {
-    padding:5px
+    padding: 5px
 }
 
 table {
@@ -120,8 +130,8 @@ td {
 
 #list {
     display: inline-block;
-    
-    
+
+
 }
 
 .center-list {
@@ -129,11 +139,11 @@ td {
 }
 
 .container-center {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .home_flex {
