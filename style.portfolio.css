@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(217, 217, 217);
+    background-color: rgb(211, 216, 216);
 }
 
 img {
@@ -73,7 +73,6 @@ p {
     border: 5px solid whitesmoke;
     background-color: whitesmoke
 }
-
 
 #toplink:hover {
     border: 5px solid whitesmoke;
